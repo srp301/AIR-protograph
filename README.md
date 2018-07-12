@@ -1,5 +1,5 @@
 # AIR-protograph
-类似于滴滴App的原型图
+类似于滴滴App的原型图和web端的原型图
 
 ### 使用方法
 
